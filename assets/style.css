@@ -26,3 +26,9 @@ font-family: Bai Jamjuree;
 .cartao {
     margin: 1rem 1rem;
 }
+#container {
+    display:flex ;
+}
+.cartao {
+    margin: 1rem 1rem;
+}
